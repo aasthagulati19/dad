@@ -1,0 +1,46 @@
+body
+  {
+     background-image:url("wild-west-patterns-large.gif");
+     
+  }
+
+h1 {
+     background-size: 600px;
+     font-size:100px;
+     text-align:center;
+     font-family:"Alex Brush";
+   }
+ 
+h2
+   {
+     font-size:30px;
+     font-family:"Indie Flower";
+   }
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+p  
+   {   
+       background-image:url("index.jpg");
+       font-size:40px;
+       font-family:"Roboto Mono";
+   }
